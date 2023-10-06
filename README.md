@@ -3,8 +3,8 @@
 Este projeto é um simples protótipo de um Cardápio Digital desenvolvido durante o tutorial da Fernanda Kipper [tutorial no YouTube](https://www.youtube.com/@kipperdev). A aplicação na aula foi desenvolvida usando **React, TypeScript e React Query**, mas estudei o código e mudei para **Vue 3.0, TypeScript e Vue Query** com fins de estudo. Além de utilizar **Java Spring** no back-end.
 
 <h1 align="center">
-    <img src="./front-end/public/home.png" width="300"/>
-    <img src="./front-end/public/modal.png" width="300"/>
+    <img src="./front-end/public/home.png" width="400"/>
+    <img src="./front-end/public/modal.png" width="400"/>
 </h1>
 
 ## 💻 Requisitos
